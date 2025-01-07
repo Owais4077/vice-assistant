@@ -10,11 +10,11 @@ import pyttsx3
 engine = pyttsx3.init()
 
 # Set your API keys and email credentials here
-NEWS_API_KEY = "b045a8bf84a64b08a4ecf019e2586e6b"
-OPENWEATHER_APP_ID = "a14c5583eccc43ea838130125242611"
-TMDB_API_KEY = "377d0850a79aac44307d113c9247e22d"
+NEWS_API_KEY = "goo"
+OPENWEATHER_APP_ID = "hh"
+TMDB_API_KEY = "dd"
 EMAIL = "owaisahmad445566@gmail.com"
-PASSWORD = "khan_0099 @@"
+PASSWORD = "password"
 
 # Text-to-speech function
 def speak(text):
