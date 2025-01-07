@@ -10,9 +10,9 @@ import pyttsx3
 engine = pyttsx3.init()
 
 # Set your API keys and email credentials here
-NEWS_API_KEY = "goo"
-OPENWEATHER_APP_ID = "hh"
-TMDB_API_KEY = "dd"
+NEWS_API_KEY = "NEWS_API_KEY"
+OPENWEATHER_APP_ID = "OPENWEATHER_APP_key"
+TMDB_API_KEY = "TMDB_API_KEY"
 EMAIL = "owaisahmad445566@gmail.com"
 PASSWORD = "password"
 
